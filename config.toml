@@ -1,4 +1,4 @@
 baseURL = "https://weivayn.github.io/hugo-gulp-example/"
 languageCode = "en-us"
 title = "My New Hugo Site"
-publisDir = "docs"
+publishDir = "docs"
