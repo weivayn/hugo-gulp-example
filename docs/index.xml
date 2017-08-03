@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>https://github.com/weivayn/hugo-gulp-example.git/</link>
+    <link>https://github.com/weivayn/hugo-gulp-example/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 02 Aug 2017 19:13:14 -0400</lastBuildDate>
     
-	<atom:link href="https://github.com/weivayn/hugo-gulp-example.git/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://github.com/weivayn/hugo-gulp-example/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First Post 2017 08 02</title>
-      <link>https://github.com/weivayn/hugo-gulp-example.git/posts/first-post-2017-08-02/</link>
+      <link>https://github.com/weivayn/hugo-gulp-example/posts/first-post-2017-08-02/</link>
       <pubDate>Wed, 02 Aug 2017 19:13:14 -0400</pubDate>
       
-      <guid>https://github.com/weivayn/hugo-gulp-example.git/posts/first-post-2017-08-02/</guid>
+      <guid>https://github.com/weivayn/hugo-gulp-example/posts/first-post-2017-08-02/</guid>
       <description>Testing out hugo!</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://github.com/weivayn/hugo-gulp-example.git/about/</link>
+      <link>https://github.com/weivayn/hugo-gulp-example/about/</link>
       <pubDate>Sun, 30 Jul 2017 17:30:06 -0400</pubDate>
       
-      <guid>https://github.com/weivayn/hugo-gulp-example.git/about/</guid>
+      <guid>https://github.com/weivayn/hugo-gulp-example/about/</guid>
       <description>test</description>
     </item>
     
     <item>
       <title>Home page</title>
-      <link>https://github.com/weivayn/hugo-gulp-example.git/</link>
+      <link>https://github.com/weivayn/hugo-gulp-example/</link>
       <pubDate>Sun, 30 Jul 2017 16:48:29 -0400</pubDate>
       
-      <guid>https://github.com/weivayn/hugo-gulp-example.git/</guid>
+      <guid>https://github.com/weivayn/hugo-gulp-example/</guid>
       <description>Heading Content&amp;hellip;</description>
     </item>
     
