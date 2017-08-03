@@ -1,12 +1,16 @@
-<html>
-<head>
-  <link rel="stylesheet" type="text/css" href="/hugo-gulp-example/css/theme.css">
-</head>
-<body>
-  {{ range .Data.Pages }}
-      {{if eq .Type "index" }}
-          {{.Content}}
-      {{end}}
-  {{ end }}
-</body>
-</html>
+
+{{ partial "header" . }}
+
+<main>
+
+    <div class="intro">
+
+        <h1>{{ .Site.Title }}</h1>
+
+        <h2>{{ .Site.Params.Description }}</h2>
+
+    </div>
+
+</main>
+
+{{ partial "footer" . }}

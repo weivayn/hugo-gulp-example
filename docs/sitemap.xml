@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://github.com/weivayn/hugo-gulp-example.git/post/first-post-2017-08-02/</loc>
+    <loc>https://github.com/weivayn/hugo-gulp-example.git/posts/first-post-2017-08-02/</loc>
     <lastmod>2017-08-02T19:13:14-04:00</lastmod>
   </url>
   
@@ -35,7 +35,7 @@
   </url>
   
   <url>
-    <loc>https://github.com/weivayn/hugo-gulp-example.git/post/</loc>
+    <loc>https://github.com/weivayn/hugo-gulp-example.git/posts/</loc>
     <lastmod>2017-08-02T19:13:14-04:00</lastmod>
     <priority>0</priority>
   </url>
