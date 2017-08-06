@@ -29,12 +29,6 @@
   </url>
   
   <url>
-    <loc>https://weivayn.github.io/hugo-gulp-example/</loc>
-    <lastmod>2017-08-02T19:13:14-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://weivayn.github.io/hugo-gulp-example/posts/</loc>
     <lastmod>2017-08-02T19:13:14-04:00</lastmod>
     <priority>0</priority>
@@ -42,6 +36,12 @@
   
   <url>
     <loc>https://weivayn.github.io/hugo-gulp-example/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://weivayn.github.io/hugo-gulp-example/</loc>
+    <lastmod>2017-08-02T19:13:14-04:00</lastmod>
     <priority>0</priority>
   </url>
   

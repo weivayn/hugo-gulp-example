@@ -1,5 +1,54 @@
-@bgcolor: #eee;
+@bgcolor: #fff;
+@fontfamily: Verdana, Geneva, sans-serif;
+
+@linkdecor: overline;
+@menufontweight: bold;
+
+@colorwaterspout: #97F9F9;
+@colorcolumbiablue: #C1E0F7;
+@colornonphotoblue: #A4DEF9;
+@colorthistle: #CFBAE1;
+@colorlilac: #C59FC9;
+@colorbluegrey: #9198a0;
+
+@padding: 20px;
 
 body {
   background-color: @bgcolor;
+  font-family: @fontfamily;
+  margin: 0px;
+}
+
+.navbar{
+  background-color: @colornonphotoblue;
+  padding: @padding;
+  font-weight: @menufontweight;
+}
+
+.navbar-header{
+  padding-bottom: @padding;
+}
+
+.navbar-brand {
+  float: left;
+}
+
+.navbar a{
+  color: @colorbluegrey;
+  text-decoration: none;
+}
+
+.navbar a:hover{
+  text-decoration: @linkdecor;
+}
+
+.navbar-nav{
+  display: inline;
+  float: right;
+  margin-top: 0px;
+}
+
+.navbar-nav li{
+  display: initial;
+  padding-right: @padding;
 }

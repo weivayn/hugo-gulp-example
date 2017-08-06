@@ -1,3 +1,32 @@
 body {
-  background-color: #000;
+  background-color: #fff;
+  font-family: Verdana, Geneva, sans-serif;
+  margin: 0px;
+}
+.navbar {
+  background-color: #A4DEF9;
+  padding: 20px;
+  font-weight: bold;
+}
+.navbar-header {
+  padding-bottom: 20px;
+}
+.navbar-brand {
+  float: left;
+}
+.navbar a {
+  color: #9198a0;
+  text-decoration: none;
+}
+.navbar a:hover {
+  text-decoration: overline;
+}
+.navbar-nav {
+  display: inline;
+  float: right;
+  margin-top: 0px;
+}
+.navbar-nav li {
+  display: initial;
+  padding-right: 20px;
 }
