@@ -1,6 +1,6 @@
 baseURL = "https://weivayn.github.io/hugo-gulp-example/"
 languageCode = "en-us"
-title = "Hugo Site Testing"
+title = "Hugo Site Testing again"
 publishDir = "docs"
 
 [[menu.main]]

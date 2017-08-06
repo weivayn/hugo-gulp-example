@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Site Testing</title>
+    <title>Hugo Site Testing again</title>
     <link>https://weivayn.github.io/hugo-gulp-example/</link>
-    <description>Recent content on Hugo Site Testing</description>
+    <description>Recent content on Hugo Site Testing again</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 02 Aug 2017 19:13:14 -0400</lastBuildDate>
