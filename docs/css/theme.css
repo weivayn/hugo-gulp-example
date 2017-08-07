@@ -1,10 +1,11 @@
 body {
-  background-color: #fff;
+  background-color: #EFEFEF;
   font-family: Verdana, Geneva, sans-serif;
   margin: 0px;
+  color: #555555;
 }
 .navbar {
-  background-color: #A4DEF9;
+  background-color: #CAEDF2;
   padding: 20px;
   font-weight: bold;
 }
@@ -14,11 +15,11 @@ body {
 .navbar-brand {
   float: left;
 }
-.navbar a {
-  color: #9198a0;
+a {
+  color: #E37222;
   text-decoration: none;
 }
-.navbar a:hover {
+a:hover {
   text-decoration: overline;
 }
 .navbar-nav {
@@ -29,4 +30,21 @@ body {
 .navbar-nav li {
   display: initial;
   padding-right: 20px;
+}
+.intro {
+  top: 50%;
+  left: 50%;
+  position: absolute;
+}
+footer {
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+  text-align: center;
+  font-size: 12px;
+  background-color: #E37222;
+  color: #fff;
+}
+footer a {
+  color: #CAEDF2;
 }

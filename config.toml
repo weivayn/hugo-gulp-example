@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "This is Wei"
 publishDir = "docs"
 
+
 [[menu.main]]
     url = "/"
     name = "Home"
@@ -17,3 +18,7 @@ publishDir = "docs"
     url = "/about/"
     name = "About"
     weight = 3
+
+[params]
+description = "Food, music and blog posts from Wei Vaynshteyn on social media and thisiswei.com."
+author = "Wei Vaynshteyn"

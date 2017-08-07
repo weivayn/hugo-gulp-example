@@ -3,6 +3,8 @@
 
 @linkdecor: overline;
 @menufontweight: bold;
+@footerfontsize: 12px;
+@footerfontcolor: #fff;
 
 @colorwaterspout: #97F9F9;
 @colorcolumbiablue: #C1E0F7;
@@ -11,16 +13,24 @@
 @colorlilac: #C59FC9;
 @colorbluegrey: #9198a0;
 
+@colorsky: #CAEDF2;
+@colorcarbon: #A9A9A9;
+@colorwatermelon: #FF383F;
+@colorneutral: #EFEFEF;
+@colortangerine: #E37222;
+@colormidgray: #555555;
+
 @padding: 20px;
 
 body {
-  background-color: @bgcolor;
+  background-color: @colorneutral;
   font-family: @fontfamily;
   margin: 0px;
+  color: @colormidgray;
 }
 
 .navbar{
-  background-color: @colornonphotoblue;
+  background-color: @colorsky;
   padding: @padding;
   font-weight: @menufontweight;
 }
@@ -33,12 +43,12 @@ body {
   float: left;
 }
 
-.navbar a{
-  color: @colorbluegrey;
+a{
+  color: @colortangerine;
   text-decoration: none;
 }
 
-.navbar a:hover{
+a:hover{
   text-decoration: @linkdecor;
 }
 
@@ -51,4 +61,24 @@ body {
 .navbar-nav li{
   display: initial;
   padding-right: @padding;
+}
+
+.intro{
+  top: 50%;
+  left: 50%;
+  position: absolute;
+}
+
+footer{
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+  text-align: center;
+  font-size: @footerfontsize;
+  background-color: @colortangerine;
+  color: #fff;
+}
+
+footer a {
+  color: @colorsky;
 }
